@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.2.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Clases.Lacteo">
+    <void property="codigo">
+     <int>1</int>
+    </void>
+    <void property="iva">
+     <double>0.04</double>
+    </void>
+    <void property="nombre">
+     <string>Leche-Kaiku</string>
+    </void>
+    <void property="peso">
+     <double>1.0</double>
+    </void>
+    <void property="precio">
+     <double>1.25</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.FrutaHortaliza">
+    <void property="codigo">
+     <int>2</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Aguacate</string>
+    </void>
+    <void property="peso">
+     <double>0.2</double>
+    </void>
+    <void property="precio">
+     <double>1.05</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Lacteo">
+    <void property="cantidad">
+     <int>25</int>
+    </void>
+    <void property="codigo">
+     <int>3</int>
+    </void>
+    <void property="iva">
+     <double>0.04</double>
+    </void>
+    <void property="nombre">
+     <string>Leche-Pascual</string>
+    </void>
+    <void property="peso">
+     <double>1.0</double>
+    </void>
+    <void property="precio">
+     <double>1.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.FrutaHortaliza">
+    <void property="cantidad">
+     <int>100</int>
+    </void>
+    <void property="codigo">
+     <int>4</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Naranjas-Valencia</string>
+    </void>
+    <void property="peso">
+     <double>1.0</double>
+    </void>
+    <void property="precio">
+     <double>1.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Herramienta">
+    <void property="codigo">
+     <int>5</int>
+    </void>
+    <void property="iva">
+     <double>0.4</double>
+    </void>
+    <void property="nombre">
+     <string>Taladro-Bosch</string>
+    </void>
+    <void property="peso">
+     <double>2.7</double>
+    </void>
+    <void property="precio">
+     <double>0.5</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Otros">
+    <void property="cantidad">
+     <int>28</int>
+    </void>
+    <void property="codigo">
+     <int>6</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Armarios-Cocina</string>
+    </void>
+    <void property="peso">
+     <double>54.7</double>
+    </void>
+    <void property="precio">
+     <double>88.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Otros">
+    <void property="cantidad">
+     <int>237</int>
+    </void>
+    <void property="codigo">
+     <int>7</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Lejía-Patena</string>
+    </void>
+    <void property="peso">
+     <double>1.0</double>
+    </void>
+    <void property="precio">
+     <double>1.3</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Otros">
+    <void property="codigo">
+     <int>8</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Commodore64-Commodore-Int</string>
+    </void>
+    <void property="peso">
+     <double>0.9</double>
+    </void>
+    <void property="precio">
+     <double>600.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.FrutaHortaliza">
+    <void property="cantidad">
+     <int>23</int>
+    </void>
+    <void property="codigo">
+     <int>9</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Limón</string>
+    </void>
+    <void property="peso">
+     <double>7.0</double>
+    </void>
+    <void property="precio">
+     <double>5.3</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Otros">
+    <void property="cantidad">
+     <int>50</int>
+    </void>
+    <void property="codigo">
+     <int>10</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Mesa-comedor</string>
+    </void>
+    <void property="peso">
+     <double>30.0</double>
+    </void>
+    <void property="precio">
+     <double>580.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Bebida">
+    <void property="cantidad">
+     <int>40</int>
+    </void>
+    <void property="codigo">
+     <int>11</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Kas-limón</string>
+    </void>
+    <void property="peso">
+     <double>0.4</double>
+    </void>
+    <void property="precio">
+     <double>0.32</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.FrutaHortaliza">
+    <void property="cantidad">
+     <int>345</int>
+    </void>
+    <void property="codigo">
+     <int>12</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>Piña</string>
+    </void>
+    <void property="peso">
+     <double>0.9</double>
+    </void>
+    <void property="precio">
+     <double>1.5</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Otros">
+    <void property="cantidad">
+     <int>50</int>
+    </void>
+    <void property="codigo">
+     <int>13</int>
+    </void>
+    <void property="iva">
+     <double>0.16</double>
+    </void>
+    <void property="nombre">
+     <string>TV</string>
+    </void>
+    <void property="peso">
+     <double>45.0</double>
+    </void>
+    <void property="precio">
+     <double>1010.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Clases.Herramienta">
+    <void property="cantidad">
+     <int>12</int>
+    </void>
+    <void property="codigo">
+     <int>14</int>
+    </void>
+    <void property="iva">
+     <double>0.4</double>
+    </void>
+    <void property="nombre">
+     <string>Lima</string>
+    </void>
+    <void property="peso">
+     <double>12.0</double>
+    </void>
+    <void property="precio">
+     <double>12.0</double>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
